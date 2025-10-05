@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BookTracker</string>
+    <string name="home">Home</string>
+    <string name="library">Library</string>
+    <string name="recommendations">Recommend</string>
+</resources>
